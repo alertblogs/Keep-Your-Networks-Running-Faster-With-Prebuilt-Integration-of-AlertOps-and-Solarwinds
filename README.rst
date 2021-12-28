@@ -1,40 +1,32 @@
-AlertOps Expert Guidance
+Keep Your Networks Running Faster With Prebuilt Integration of AlertOps and Solarwinds
 ========
+Solarwinds is a suite of robust network monitoring and analytics tools that enables you to monitor network performance in real time to detect and correct issues clogging your IT systems.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+The Solarwinds monitoring tools analyze traffic patterns, identify applications that are hogging bandwidth, and examine devices along the delivery and Net path so you can quickly pinpoint problems and fix them fast.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+All in all, Solarwinds is a powerful network management package that helps you keep your networks running smoothly. However, Solarwinds is a monitoring and analytics platform, not an incident management platform.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+With an AlertOps and Solarwinds integration, you get comprehensive network diagnostics and capable incident communication and management. It’s the best of both worlds!
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Here’s how AlertOps makes Solarwinds even better:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    AlertOps routes alerts from Solarwinds to your incident response teams using text, voice, email, or mobile push notifications. The right people always know when Solarwinds finds a problem.
+    AlertOps automatically opens an incident as soon as it receives an alert from Solarwinds. AlertOps takes care of the administrative tasks so your teams can focus on resolving the issue.
+    AlertOps sends alerts with Alert Runbook URLs that take users directly to the Solarwinds alerts so response teams can find out exactly what’s going on as quickly as possible.
+    AlertOps sends custom messages with alerts so team members get critical troubleshooting information as soon as they read the alert.
+    AlertOps enables you to use topics to track incidents and route incidents to the right team for the job.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+You get all this with a quick and easy integration using the Generic REST API.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Additionally, AlertOps delivers tools that make incident management easier—customizable message routing rules, configurable workflows, and standardized escalations.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Head over to our help center to learn how to configure an AlertOps and Solarwinds configuration and find out what more AlertOps and Solarwinds can do for you.
 
-1 Red Canary 2021 Threat Detection Report
+Or check out over 40 other third-party AlertOps integrations for the tools you already know and love!
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-and-solarwinds-integration/
 
 Read more:
 ====
